@@ -47,11 +47,9 @@ I enjoy building practical applications, solving real-world problems, and contin
 ###  DocSpot – Seamless Appointment Booking for Healthcare
 - Developed a healthcare appointment booking platform  
 - Enables smooth interaction between patients and doctors  
-- Tech Stack: **MERN Stack**
-
-For a comprehensive list, visit [My GitHub Repositories](https://github.com/laharisetty29?tab=repositories).  
+- Tech Stack: **MERN Stack**  
 ---
-
+For a comprehensive list, visit [My GitHub Repositories](https://github.com/laharisetty29?tab=repositories).
 ##  Certifications
 - SAP Certified Associate – **Back-End Developer (ABAP Cloud)**  
 - Full Stack Web Development (MERN) – SmartBridge  
