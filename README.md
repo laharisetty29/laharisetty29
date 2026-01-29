@@ -14,8 +14,7 @@ I enjoy building practical applications, solving real-world problems, and contin
   Srinivasa Ramanujan Institute of Technology (SRIT), Andhra Pradesh  
   Graduation Year: **2026** | CGPA: **7.6**
 
-**Location**  
- Andhra Pradesh, India
+**Location**:Andhra Pradesh, India
 
 **Career Interests**  
 - Full Stack Web Development  
@@ -25,31 +24,10 @@ I enjoy building practical applications, solving real-world problems, and contin
 ---
 
 ##  Technical Skills
-
-**Programming Languages**  
-- Python  
-- SQL  
-- JavaScript  
-
-**Web Technologies & Frameworks**  
-- HTML, CSS  
-- Flask  
-- Django (familiar)  
-
-**Databases**  
-- SQLite  
-- SQL  
-
-**Tools & Platforms**  
-- Git, GitHub  
-- VS Code  
-- Microsoft Excel  
-
-**Soft Skills**  
-- Quick Learner  
-- Time Management  
-- Communication Skills  
-
+- **Languages**: Python, Java, SQL, JavaScript, HTML, CSS  
+- **Frameworks & Tools**: Django, React (basic knowledge), ABAP CDS  
+- **Databases**: MongoDB, SQLite  
+- **Development Tools**: Git, GitHub, VS Code, Microsoft Excel  
 ---
 
 ##  Projects
