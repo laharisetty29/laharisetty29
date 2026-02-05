@@ -14,10 +14,6 @@ I enjoy building practical applications, solving real-world problems, and contin
   Srinivasa Ramanujan Institute of Technology (SRIT), Andhra Pradesh  
   Graduation Year: **2026** | CGPA: **7.6**
 
-  - **Intermediate**  
-  Sri Vasavi junior College, Andhra Pradesh  
-  Graduation Year: **2020** | CGPA: **88.7**
-
 **Location**:Andhra Pradesh, India
 
 **Career Interests**  
