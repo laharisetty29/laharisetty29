@@ -24,7 +24,7 @@ I enjoy building practical applications, solving real-world problems, and contin
 ---
 
 ##  Technical Skills
-- **Languages**: Python, Java, SQL, JavaScript, HTML, CSS  
+- **Languages**: Python, SQL, JavaScript, HTML, CSS  
 - **Frameworks & Tools**: Django, React (basic knowledge), ABAP CDS  
 - **Databases**: MongoDB, SQLite  
 - **Development Tools**: Git, GitHub, VS Code, Microsoft Excel  
