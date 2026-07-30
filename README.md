@@ -34,6 +34,10 @@ I love building end-to-end **ML systems, full-stack apps, and data-driven dashbo
 | **[TaskFlow](#)** | Full-stack team task manager with JWT auth & RBAC, deployed on Railway | Node.js, Express, MongoDB, React |
 | **[Dynamic AI Chatbot](#)** | Gemini-powered chatbot with session-based memory | Flask, Gemini API |
 
+> 🔗 Replace the `#` placeholders with your actual repo links.
+
+📌 **For more projects, visit my [GitHub Repositories](https://github.com/laharisetty29?tab=repositories)**
+
 ---
 
 ### 💻 Tech Stack
