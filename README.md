@@ -34,16 +34,6 @@ I love building end-to-end **ML systems, full-stack apps, and data-driven dashbo
 | **[TaskFlow](#)** | Full-stack team task manager with JWT auth & RBAC, deployed on Railway | Node.js, Express, MongoDB, React |
 | **[Dynamic AI Chatbot](#)** | Gemini-powered chatbot with session-based memory | Flask, Gemini API |
 
-> 🔗 Replace the `#` placeholders with your actual repo links.
-
----
-
-### 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lahari-portfoilio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laharigadamsetty)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laharisetty29)
-
 ---
 
 ### 💻 Tech Stack
@@ -70,3 +60,11 @@ I love building end-to-end **ML systems, full-stack apps, and data-driven dashbo
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lahari-portfoilio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laharigadamsetty)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laharisetty29)
