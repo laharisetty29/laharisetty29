@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lahari Gadamsetty 👋</h1>
-<h3 align="center">Data Science Enthusiast | Full-Stack Developer | SAP ABAP Certified</h3>
+<h3 align="center">Data Science and AI/ML Enthusiast | Full-Stack Developer | SAP ABAP Certified</h3>
 
 <p align="center">
   <a href="https://lahari-portfoilio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat-square"></a>
@@ -34,7 +34,7 @@ I love building end-to-end **ML systems, full-stack apps, and data-driven dashbo
 | **[TaskFlow](#)** | Full-stack team task manager with JWT auth & RBAC, deployed on Railway | Node.js, Express, MongoDB, React |
 | **[Dynamic AI Chatbot](#)** | Gemini-powered chatbot with session-based memory | Flask, Gemini API |
 
-> 🔗 Add the actual repo links in place of the `#` placeholders above.
+> 🔗 Replace the `#` placeholders with your actual repo links.
 
 ---
 
@@ -50,9 +50,3 @@ I love building end-to-end **ML systems, full-stack apps, and data-driven dashbo
 ### 📫 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://lahari-portfoilio.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laharisetty29)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laharisetty29&show_icons=true&theme=default" alt="GitHub Stats" height="150">
-</p>
