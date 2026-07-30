@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lahari Gadamsetty 👋</h1>
-<h3 align="center">Data Science and AI/ML Enthusiast | Python Developer | SAP ABAP Certified</h3>
+<h3 align="center">Data Science and AI/ML Enthusiast | Full-Stack Developer | SAP ABAP Certified</h3>
 
 <p align="center">
   <a href="https://lahari-portfoilio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat-square"></a>
@@ -9,7 +9,7 @@
 ---
 
 ### 🎓 About Me
-I'm a final-year **B.Tech CSE (Data Science)** student at **Srinivasa Ramanujan Institute of Technology (SRIT)**, Andhra Pradesh — graduating in **2026**, CGPA **7.77**.
+Recently graduated with a **B.Tech in Computer Science & Engineering (Data Science)** from **Srinivasa Ramanujan Institute of Technology (SRIT)**, Andhra Pradesh, with a CGPA of **7.77**.
 
 I love building end-to-end **ML systems, full-stack apps, and data-driven dashboards** — from idea to deployment. I'm actively looking for opportunities as a **Fresher SAP ABAP Developer** or **Python / Data Science Developer**.
 
