@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lahari Gadamsetty 👋</h1>
-<h3 align="center">Data Science and AI/ML Enthusiast | Full-Stack Developer | SAP ABAP Certified</h3>
+<h3 align="center">Data Science and AI/ML Enthusiast | Python Developer | SAP ABAP Certified</h3>
 
 <p align="center">
   <a href="https://lahari-portfoilio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat-square"></a>
