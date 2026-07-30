@@ -25,16 +25,13 @@ I love building end-to-end **ML systems, full-stack apps, and data-driven dashbo
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Financial Fraud Detection System](#)** | Full ETL → SMOTE balancing → multi-model training (XGBoost, RF, Logistic Regression, Isolation Forest) with a live Streamlit dashboard | Python, Streamlit, SQLite |
-| **[AI Talent Marketplace Engine](#)** | Semantic candidate-ranking system built for the Zidio AI & Data Challenge, using sentence-transformers, TF-IDF & Groq LLaMA-3.3-70B for explainability | Python, Streamlit, Groq API |
-| **[Personalized Healthcare Recommendation System](#)** | Recommendation engine using Random Forest, SVM & KNN | Python, Streamlit |
-| **[Resume ATS Analyzer](#)** | Resume-matching tool powered by Groq's LLaMA-3.3-70B | Python, Streamlit, Groq API |
-| **[Smart Lender](#)** | Loan approval prediction app (best model: XGBoost) — led a 5-member team | Flask, XGBoost |
-| **[RetailPulse](#)** | Retail analytics with RFM segmentation, DAX measures & demand forecasting | Power BI, Python, Streamlit |
-| **[TaskFlow](#)** | Full-stack team task manager with JWT auth & RBAC, deployed on Railway | Node.js, Express, MongoDB, React |
-| **[Dynamic AI Chatbot](#)** | Gemini-powered chatbot with session-based memory | Flask, Gemini API |
-
-> 🔗 Replace the `#` placeholders with your actual repo links.
+| **[Financial Fraud Detection System](https://github.com/laharisetty29/Financial-Fraud-Detection)** | Full ETL → SMOTE balancing → multi-model training (XGBoost, RF, Logistic Regression, Isolation Forest) with a live Streamlit dashboard | Python, Streamlit, SQLite |
+| **[AI Talent Marketplace Engine](https://github.com/laharisetty29/AI-Talent-Marketplace-Engine)** | Semantic candidate-ranking system built for the Zidio AI & Data Challenge, using sentence-transformers, TF-IDF & Groq LLaMA-3.3-70B for explainability | Python, Streamlit, Groq API |
+| **[Resume ATS Analyzer](https://github.com/laharisetty29/resume-ats-analyzer)** | Resume-matching tool powered by Groq's LLaMA-3.3-70B | Python, Streamlit, Groq API |
+| **[Smart Lender](https://github.com/laharisetty29/Smart-Lender)** | Loan approval prediction app (best model: XGBoost) — led a 5-member team | Flask, XGBoost |
+| **[RetailPulse](https://github.com/laharisetty29/RetailPulse-AI-Customer-Analytics-and-Demand-Forecasting)** | Retail analytics with RFM segmentation, DAX measures & demand forecasting | Power BI, Python, Streamlit |
+| **[Team Task Manager](https://github.com/laharisetty29/Team-Task-Manager)** | Full-stack team task manager with JWT auth & RBAC, deployed on Railway | Node.js, Express, MongoDB, React |
+| **[Dynamic AI Chatbot](https://github.com/laharisetty29/dynamic-ai-chatbot)** | Gemini-powered chatbot with session-based memory | Flask, Gemini API |
 
 📌 **For more projects, visit my [GitHub Repositories](https://github.com/laharisetty29?tab=repositories)**
 
